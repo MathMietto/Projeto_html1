@@ -6,4 +6,4 @@ Foi utilizado tags de textos e também tags de link para a criação desta pági
 
 ## Sobre o projeto
 
-Dentro deste projeto foi possível explorar algumas tags, e também trazer um pouco sobre o que é html, para que serve, algumas tags utilizadas e também a sua importância dentro da web.
+Dentro deste projeto foi possível explorar algumas tags, e também trazer um pouco sobre o que é html, para que serve e também a sua importância dentro da web.
